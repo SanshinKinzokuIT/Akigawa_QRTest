@@ -1,0 +1,13 @@
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\bin\Debug\QRTest.exe.config
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\bin\Debug\QRTest.exe
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\bin\Debug\QRTest.pdb
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.csproj.AssemblyReference.cache
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.Form1.resources
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.Properties.Resources.resources
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.csproj.GenerateResource.cache
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.csproj.CoreCompileInputs.cache
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.exe
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.pdb
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\bin\Debug\WindowsInput.dll
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\bin\Debug\WindowsInput.xml
+C:\Users\phamngoc_an\Desktop\Project\QR test\QRTest\QRTest\obj\Debug\QRTest.csproj.CopyComplete
